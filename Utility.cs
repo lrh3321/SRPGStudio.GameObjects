@@ -92,6 +92,7 @@ namespace SRPGStudio.GameObjects
 			}
 
 			/* XmlElement cn = doc.SelectSingleNode(ClassNames) as XmlElement;
+
              InitArray(cn, out s_classNames);
 
              //#if ! DEBUG
@@ -282,4 +283,5 @@ namespace SRPGStudio.GameObjects
 
 		#endregion
 	}
+
 }
